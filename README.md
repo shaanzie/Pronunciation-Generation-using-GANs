@@ -1,5 +1,7 @@
 # Pronunciation-Generation-using-GANs
 
+This is a system to detect mispronounced words in natural speech and generate the correct pronounciations in the user's voice.
+
 Please refer to the final paper for more details on the project.
 
 To replicate the training procedure, first export all visible devices enabled by CUDA to -1.
