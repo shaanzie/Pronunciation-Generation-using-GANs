@@ -17,6 +17,6 @@ This is the final report on the project. You may find this saved as Final_Paper_
 
 <object data="https://github.com/shaanzie/Pronunciation-Generation-using-GANs/blob/master/Final_Paper___GANs.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/shaanzie/Pronunciation-Generation-using-GANs/blob/master/Final_Paper___GANs.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/shaanzie/Pronunciation-Generation-using-GANs/blob/master/Final_Paper___GANs.pdf">View PDF</a>.</p>
+        <p>This browser does not support PDFs. Please navigate to the PDF on the repo to view it: <a href="https://github.com/shaanzie/Pronunciation-Generation-using-GANs/blob/master/Final_Paper___GANs.pdf">View PDF</a>.</p>
     </embed>
 </object>
